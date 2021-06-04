@@ -2,7 +2,7 @@
 def filetowrite(file_name, user_results):
   with open(file_name, 'w') as f:
     
-    f.write("This is your receipt: ")
+    f.write("This is your receipt :D: ")
     if user_results[0] == '1':
       f.write("You are watching Call of Jury Duty")
     elif user_results[0] == '2':
