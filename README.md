@@ -1,2 +1,0 @@
-# ampitheater
-its a theater 
