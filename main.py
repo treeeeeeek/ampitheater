@@ -87,3 +87,5 @@ def taco_bell(racksinput):
 ## main
 user_results = userinputs()
 filetowrite("new_receipt.txt", user_results)
+
+## you suck
